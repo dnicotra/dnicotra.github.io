@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Chistu sugnu"
+title                    : "Davide Nicotra"
 title_separator          : "-"
 name                     : &name "Davide Nicotra"
 description              : &description "Desc"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "Davide Nicotra"
   pronouns         : # example: "she/her"  
   bio              : "Particle physicist, nerd and proud Sicilian"
-  location         : "Earth"
+  location         : "Maastricht, The Netherlands"
   employer         : "Maastricht University"
   uri              : # URL
   email            : "nicotra.davide@yahoo.it" 
